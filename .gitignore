@@ -1,0 +1,19 @@
+# Eclipse / STS
+.metadata/
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build folders
+target/
+build/
+
+# Node (if frontend)
+node_modules/
